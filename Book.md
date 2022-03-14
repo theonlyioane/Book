@@ -51,12 +51,14 @@ Figma
 Adobe XD
 Photoshop
 
-Collaboration features
+## Collaboration features
 This type of feature had made it’s way from google docs and into our design tools. While this may not be needed in the short term, these kinds of features are becoming standard in the workplace and you’ll interact with this work style eventually.
 
 * remove: This is great for larger projects and design systems in general.
 
-Cloud storage
+## Cloud storage
+Cloud storage for design files have made leaps and bounds over the last 10 years. No longer are designers hodling on to the sinlge copy of a file on their flash drives. (something about affordances, and the features that thye bring. The ability to have multiple copies so you don't have to worry about it. )
+
 The ability to view and edit documents on any device saves both time and headaches.
 
 For those who have had file corruption issue in the past, this is much more secure system.
@@ -84,10 +86,16 @@ In terms of integration what you’re looking for is the ability to reference el
 Same something about the element refresh that sketch has for master / design system files.
 
 Plug-ins
-These are going to be specific to you and your companies workflow. Sketch
+These are going to be specific to you and your companies workflow.
+
+Could go into the plugins that I like to use. This could also be a twitter post. Something that I'll need to take a look at is the overall usage of sketch vs. figma. All of the design influencers that I'm seeing online right now seem to have a preference for Figma. This may have to do with the lower-barier to entry, as well as their feature rich value props. 
+
+If I'm going to create and showcase solutions for a tool, it makes sense to make content for a larger market.
 
 Handoff features
 Depending on the workflow with your dev team, you’ll most likely need some sort of inspect features, allowing the developers to view the designs and inspect each element. Some handoff features also allow the developers to copy and paste code directly from design elements.
+
+Might want to have some personal stories about issues that I've seen arise.
 
 Handoff procedures
 Documentation tools
@@ -100,6 +108,8 @@ Additional tools
 Don’t leave your dev team guessing
 - Documenting designs
 Wireflows, designs and everything in between
+The expection that time is not your friend in a start up, but it's much more difficut to backtrack on code than it is to spend a bit more time documenting design.
+There's a balancing act that you'll ned to perform to make sure that the correct docuemntation is being made, while also producing quality work.
 - Finding your fit
 Understanding where your UX role fits, and ways to maximize your impact
 - The importance of systems
@@ -174,4 +184,9 @@ What are the items that I’m going to need?
 
 Active twitter account
 Email subscription
-Content 
+Content
+
+
+
+
+
